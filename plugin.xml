@@ -28,7 +28,7 @@
     <description>Cordova Event Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,event</keywords>
-    <repo>http://192.168.4.92/lixiaofei/cordova-plugin-event.git</repo>
+    <repo>https://github.com/lixiaofei123/cordova-plugin-event.git</repo>
     <issue></issue>
 
     <js-module src="www/eventPlugin.js" name="eventPlugin">
