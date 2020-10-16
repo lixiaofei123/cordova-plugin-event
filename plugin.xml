@@ -18,11 +18,7 @@
   under the License.
 -->
 
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" 
-    xmlns:rim="http://www.blackberry.com/ns/widgets" 
-    xmlns:android="http://schemas.android.com/apk/res/android" 
-    id="cn.com.geovis.eventPlugin" 
-    version="0.0.1">
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:rim="http://www.blackberry.com/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" id="cn.com.geovis.eventPlugin" version="0.0.1">
 
     <name>eventPlugin</name>
     <description>Cordova Event Plugin</description>
