@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-event",
+  "version": "0.0.1",
+  "description": "Cordova Event Plugin",
+  "cordova": {
+    "id": "cn.com.geovis.EventPlugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+http://192.168.4.92/lixiaofei/cordova-plugin-event.git"
+  },
+  "keywords": [
+    "cordova",
+    "event",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "geovis",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "http://192.168.4.92/lixiaofei/cordova-plugin-event/issues"
+  },
+  "homepage": "http://192.168.4.92/lixiaofei/cordova-plugin-event#readme"
+}
