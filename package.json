@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Cordova Event Plugin",
   "cordova": {
-    "id": "cn.com.geovis.EventPlugin",
+    "id": "cn.com.geovis.eventPlugin",
     "platforms": [
       "android"
     ]

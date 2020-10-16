@@ -21,7 +21,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" 
     xmlns:rim="http://www.blackberry.com/ns/widgets" 
     xmlns:android="http://schemas.android.com/apk/res/android" 
-    id="cn.com.geovis.EventPlugin" 
+    id="cn.com.geovis.eventPlugin" 
     version="0.0.1">
 
     <name>Event</name>
@@ -38,7 +38,7 @@
     <!-- android -->
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
-            <feature name="eventPlugin">
+            <feature name="Event">
                 <param name="android-package" value="cn.com.geovis.EventPlugin" />
             </feature>
         </config-file>
