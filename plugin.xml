@@ -24,7 +24,7 @@
     id="cn.com.geovis.eventPlugin" 
     version="0.0.1">
 
-    <name>Event</name>
+    <name>eventPlugin</name>
     <description>Cordova Event Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,event</keywords>
@@ -38,7 +38,7 @@
     <!-- android -->
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
-            <feature name="Event">
+            <feature name="eventPlugin">
                 <param name="android-package" value="cn.com.geovis.EventPlugin" />
             </feature>
         </config-file>
